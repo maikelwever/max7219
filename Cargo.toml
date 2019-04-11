@@ -10,4 +10,4 @@ repository = "https://github.com/maikelwever/max7219"
 version = "0.0.1"
 
 [dependencies]
-embedded-hal = "0.1.2"
+embedded-hal = "0.2"

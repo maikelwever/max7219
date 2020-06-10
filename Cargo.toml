@@ -7,7 +7,7 @@ keywords = ["embedded-hal-driver", "max7219", "ledcontrol"]
 license = "MIT"
 name = "max7219"
 repository = "https://github.com/maikelwever/max7219"
-version = "0.0.1"
+version = "0.0.2"
 
 [dependencies]
 embedded-hal = "0.2"
